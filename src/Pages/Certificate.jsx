@@ -24,8 +24,7 @@ export default function Certificate() {
       <div className="certficate">
 
 	       <div className="mycert">
-          <img src="https://www.freecodecamp.org/certification/MbarushimanaFabrice/javascript-algorithms-and-data-structures" alt="" />
-          <p><AiFillSafetyCertificate />HTML Certificate</p>
+           <p><AiFillSafetyCertificate />  <a href="https://www.freecodecamp.org/certification/MbarushimanaFabrice/javascript-algorithms-and-data-structures">Javascript Certificate</a></p>
         </div>
 
 	      
