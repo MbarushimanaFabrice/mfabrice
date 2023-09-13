@@ -29,11 +29,11 @@ export default function Skills() {
           <li><IoLogoJavascript  className='icons'/>JAVASCRIPT</li>
           <li><BsCircle  className='icons'/> JQUERY</li>
           <li><FaReact  className='icons'/> REACT JS</li>
-            <li className='icons'>Node JS</li>
-           <li className='icons'>Express JS</li>
-            <li className='icons'>MongoDB</li>
+                    <li><BsCircle  className='icons'/> Node JS</li>
+                              <li><BsCircle  className='icons'/> Express JS</li>
+                                        <li><BsCircle  className='icons'/> MongoDB</li>
 
-          
+ 
           
           <li><FaPhp  className='icons'/> PHP</li>
           <li><BsCircle  className='icons'/> MYSQL</li>
