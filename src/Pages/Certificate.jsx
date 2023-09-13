@@ -22,6 +22,13 @@ export default function Certificate() {
 
       </div>
       <div className="certficate">
+
+	       <div className="mycert">
+          <img src="https://www.freecodecamp.org/certification/MbarushimanaFabrice/javascript-algorithms-and-data-structures" alt="" />
+          <p><AiFillSafetyCertificate />HTML Certificate</p>
+        </div>
+
+	      
         <div className="mycert">
           <img src="https://www.sololearn.com/Certificate/CT-DPEINNUF/jpg" alt="" />
           <p><AiFillSafetyCertificate />HTML Certificate</p>
