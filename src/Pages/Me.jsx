@@ -7,7 +7,7 @@ export default function Me() {
   return (
     <>
       <div className="me middle"> 
-        <h1><myname>My Name is</myname> MBARUSHIMANA <br /> <nen>Fabrice</nen> </h1>
+        <p><myname>My Name is</myname> MBARUSHIMANA <br /> <nen>Fabrice</nen> </p>
         <h2>I’ am Student in  Software Developement...</h2>
         <BiDownArrowCircle className="down_me" onClick={()=>navigate('skills')} className='next down'/>
        </div>
